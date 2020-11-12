@@ -1,0 +1,1 @@
+sqlite3 pokemon.db < schema_migration.sqlite3
